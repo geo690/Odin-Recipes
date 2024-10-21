@@ -1,2 +1,0 @@
-# Odin-Recipes
-this this is a new project where is will impliment all of the knowledge i have learned so far in " the odin project" course. i will use this project to solidify my understandings of the concpets that i have learned about coding and web development so far in this course and i am sure that i will learn even more as time goes on!
